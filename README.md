@@ -1,2 +1,5 @@
-# my-spotify-history
-(in progress) My personal listening history in the last year on Spotify
+# My Spotify Year in Review
+
+## Introduction 
+
+As someone who deeply loves music and listening to many genres, I know that I definitely do have a preference. This is my attempt at acquiring and using this data to visualize my preferences. 
